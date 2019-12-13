@@ -1,0 +1,7 @@
+*.b1s
+stat/obj/
+*.suo
+stat/bin/x86/Debug/stat.exe
+stat/bin/x86/Debug/stat.pdb
+stat/bin/x64/Debug/stat.exe
+stat/bin/x64/Debug/stat.pdb
